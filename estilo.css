@@ -1,0 +1,175 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1280px;
+    margin: auto;
+}
+
+h1 {
+    color: greenyellow;
+    font-size: 100px;
+    font-weight: lighter;
+}
+
+.epigrafe {
+    text-align: right;
+    font-family: inherit;
+    color: dodgerblue;
+    font-size: 15px;
+}
+
+h2 {
+    color: yellow;
+    text-align: left;
+    font-size: 50px;
+    font-weight: lighter;
+    font-family: inherit;
+    padding-top: 30px;
+}
+
+h3 {
+    color: hotpink;
+    font-weight: lighter;
+
+}
+
+ul {
+    text-align: left;
+    list-style: armenian;
+    font-size: 80px;
+}
+
+ol {
+    list-style: none;
+    text-align: right;
+    margin-right: 50px;
+    font-size: 40px;
+}
+
+h4 {
+    text-align: left;
+    margin-left: 300px;
+    width: 100px;
+    font-size: 18px;
+}
+
+.titulos {
+    margin-left: 500px;
+    text-align: left;
+    width: 700px;
+}
+
+.links {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    color: lime;
+}
+
+.links:hover {
+    background-color: blue;
+}
+
+h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+    text-align: right;
+    margin-left: 100px;
+    width: 500px;
+}
+
+.plata {
+    color: fuchsia;
+}
+
+.plata:hover {
+    color: aqua;
+}
+
+h6 {
+    font-size: 30px;
+    color: darkorange;
+    font-weight: lighter;
+    text-align: right;
+    margin-right: 100px;
+}
+
+
+form p {
+    font-size: xx-large;
+    display: inline-block;
+    color: white;
+    background-color: black;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+
+.form1 {
+    text-align: left;
+    margin-left: 200px;
+
+}
+
+.form2 {
+    text-align: left;
+    margin-left: 700px;
+}
+
+.verbos {
+    margin: 5px;
+    padding: 10px;
+    font-size: x-large;
+    padding: 10px;
+    inset-inline: 5px;
+}
+
+.form {
+    font-size: 25px
+}
+
+.submit {
+    border: none;
+    padding: 10px;
+    margin-top: 30px;
+    margin-right: 900px;
+    margin-bottom: 80px;
+    cursor: pointer;
+    background-color: cyan;
+    font-size: larger;
+}
+
+.submit:hover {
+    color: fuchsia;
+    background-color: yellow;
+}
+
+.flexbox {
+    display: flex;
+    background-color: aqua;
+    padding: 20px;
+    margin: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+    align-items: center;
+}
+
+.derecha{
+    margin-left: 100px; 
+}
+
+.centro{
+    font-size: xx-large; padding: 80px;
+}
+
+div button {
+    color: white;
+    font-size: xx-large;
+    background-color: lime;
+    margin: 10px;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+div button:hover {
+    background-color: magenta;
+}
